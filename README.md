@@ -1,5 +1,7 @@
 # Video Frame Extractor
 
+![Python](https://img.shields.io/badge/python-3.x-blue?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-python-green?style=flat-square&logo=opencv&logoColor=white)
+
 A lightweight Python utility for extracting individual frames from video files.
 
 ## Overview
