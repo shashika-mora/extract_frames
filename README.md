@@ -2,10 +2,10 @@
 
 ![Python](https://img.shields.io/badge/python-3.x-blue?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-python-green?style=flat-square&logo=opencv&logoColor=white)
 
-A lightweight Python utility for extracting individual frames from video files.
+Turns your video into a mountain of images. Perfect for when you need to analyze every pixel or just want to catch that specific millisecond where things went wrong.
 
 ## Overview
-This tool automates the process of decomposing a video file into its constituent frames. It reads a source video (`video.mp4`) and saves each frame as a separate JPEG image in the local directory.
+A simple script that reads `video.mp4` and dumps every single frame as a `.jpg`. No complex UI, just raw frame extraction power. Useful for creating datasets or analyzing videos frame-by-frame.
 
 ## Prerequisites
 - **Python 3.x**
