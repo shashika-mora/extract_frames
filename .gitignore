@@ -1,7 +1,6 @@
 GEMINI.md
 .agent/
 .agent/knowledge
-*.mp4
 *.jpg
 
 # General
