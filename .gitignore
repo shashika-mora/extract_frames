@@ -1,7 +1,8 @@
 GEMINI.md
 .agent/
 .agent/knowledge
-video.mp4
+*.mp4
+*.jpg
 
 # General
 .DS_Store
