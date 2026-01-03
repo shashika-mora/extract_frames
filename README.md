@@ -15,7 +15,7 @@ A simple script that reads `video.mp4` and dumps every single frame as a `.jpg`.
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/shashika-mora/extract_frames
    cd extract_frames
    ```
 
